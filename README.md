@@ -12,7 +12,7 @@ Data Cleaning and Transformation: Handling missing data, duplicates, and ensurin
 Optimization: Writing efficient SQL queries to handle large datasets.
 
 # Tools & Library Used
-[<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="C:\Users\hp\Downloads\Pictures\mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
 
 # Query Task
