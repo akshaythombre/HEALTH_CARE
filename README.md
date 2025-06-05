@@ -18,7 +18,7 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 # Query Task
 1. How many patients are currently admitted to the hospital?
 
-    <img src="./IMAGES/patient admitted.png" alt="email id list.png" width="400"/> &nbsp;
+    <img src="C:\Users\hp\Downloads\Pictures\patient admitted.png" width="400"/> &nbsp;
 
 3. List all doctors and the number of patients they have treated.
 
