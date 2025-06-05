@@ -50,14 +50,14 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 
 11. List all patients along with their most recent admission date.
 
-  <img src="./IMAGES/admission date.png" alt="email id list.png" width="400"/> &nbsp;
+  <img src="Pictures/admission date.png" width="400"/> &nbsp;
 
 11. Find the names of patients who were treated by the doctor with the highest number of admissions.
 
-  <img src="./IMAGES/name of patient.png" alt="email id list.png" width="400"/> &nbsp;
+  <img src="Pictures/name of patient.png" width="400"/> &nbsp;
 
 12. Find the average billing amount for each hospital, and only display hospitals where the average is above $5,000.
 
-  <img src="./IMAGES/avg billing amount of hospital.png" alt="email id list.png" width="400"/> &nbsp;
+  <img src="Pictures/avg billing amount of hospital.png" width="400"/> &nbsp;
 
 13. Rank patients by their age.
