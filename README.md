@@ -12,7 +12,7 @@ Data Cleaning and Transformation: Handling missing data, duplicates, and ensurin
 Optimization: Writing efficient SQL queries to handle large datasets.
 
 # Tools & Library Used
-[<img src="C:\Users\hp\Downloads\Pictures\mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="Pictures/mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
 
 # Query Task
@@ -22,7 +22,7 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 
 3. List all doctors and the number of patients they have treated.
 
-    <img src="./IMAGES/patient treated.png" alt="email id list.png" width="400"/> &nbsp;
+    <img src="Pictures/patient treated.png" width="400"/> &nbsp;
 
 4. What is the total billing amount for all patients in the database?
 
