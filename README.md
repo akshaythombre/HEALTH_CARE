@@ -14,6 +14,9 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 # Tools & Library Used
 [<img src="Pictures/mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
+# Project Result
+
+[Click here to get full code](https://github.com/akshaythombre/HEALTH_CARE/blob/main/Health%20care%20Analysis.sql) 
 
 # Query Task
 1. How many patients are currently admitted to the hospital?
