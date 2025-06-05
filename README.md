@@ -26,29 +26,29 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 
 4. What is the total billing amount for all patients in the database?
 
-    <img src="./IMAGES/total billing.png" alt="email id list.png" width="400"/> &nbsp;
+    <img src="Pictures/total billing.png" width="400"/> &nbsp;
 
-5. Which hospital has admitted the highest number of patients?
+6. Which hospital has admitted the highest number of patients?
 
-   <img src="./IMAGES/highest number of patient.png" alt="email id list.png" width="400"/> &nbsp;
+   <img src="Pictures/highest number of patient.png" width="400"/> &nbsp;
 
-6. Get the details of all patients with a specific medical condition (e.g., "Diabetes").
+7. Get the details of all patients with a specific medical condition (e.g., "Diabetes").
 
-   <img src="./IMAGES/diabetes.png" alt="email id list.png" width="400"/> &nbsp;
+   <img src="Pictures/diabetes.png" width="400"/> &nbsp;
 
-7. List all admissions along with the name of the patient, doctor, and hospital.
+8. List all admissions along with the name of the patient, doctor, and hospital.
 
    <img src="./IMAGES/list of all admission.png" alt="email id list.png" width="400"/> &nbsp;
 
-8. Find the average age of patients in the database.
+9. Find the average age of patients in the database.
 
    <img src="./IMAGES/average_age.png" alt="email id list.png" width="400"/> &nbsp;
 
-9. What are the top 3 most common medical conditions among patients?
+10. What are the top 3 most common medical conditions among patients?
 
    <img src="./IMAGES/medical_condition.png" alt="email id list.png" width="400"/> &nbsp;
 
-10. List all patients along with their most recent admission date.
+11. List all patients along with their most recent admission date.
 
   <img src="./IMAGES/admission date.png" alt="email id list.png" width="400"/> &nbsp;
 
