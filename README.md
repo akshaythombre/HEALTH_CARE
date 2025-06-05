@@ -61,3 +61,6 @@ Optimization: Writing efficient SQL queries to handle large datasets.
   <img src="Pictures/avg billing amount of hospital.png" width="400"/> &nbsp;
 
 13. Rank patients by their age.
+
+    <img src="Pictures/rank by age.png" width="400"/> &nbsp;
+
