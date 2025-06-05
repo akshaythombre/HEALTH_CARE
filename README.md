@@ -38,15 +38,15 @@ Optimization: Writing efficient SQL queries to handle large datasets.
 
 8. List all admissions along with the name of the patient, doctor, and hospital.
 
-   <img src="./IMAGES/list of all admission.png" alt="email id list.png" width="400"/> &nbsp;
+   <img src="Pictures/list of all admission.png" width="400"/> &nbsp;
 
 9. Find the average age of patients in the database.
 
-   <img src="./IMAGES/average_age.png" alt="email id list.png" width="400"/> &nbsp;
+   <img src="Pictures/average_age.png" width="400"/> &nbsp;
 
 10. What are the top 3 most common medical conditions among patients?
 
-   <img src="./IMAGES/medical_condition.png" alt="email id list.png" width="400"/> &nbsp;
+   <img src="Pictures/medical_condition.png" width="400"/> &nbsp;
 
 11. List all patients along with their most recent admission date.
 
